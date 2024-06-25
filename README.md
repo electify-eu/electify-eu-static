@@ -10,6 +10,6 @@ We developed a Streamlit app where voters could ask their questions and receive 
 
 In the background, we used a Retrieval Augmented Generation (RAG) engine that had access to thousands of political documents. Our algorithm searched for the documents most relevant to the user's input. With this information, an AI language model then generated concise summaries for the six biggest parties in Germany.
 
-[More information on our organisation page]([https://github.com/electify-eu]) 
+[More information on our organisation page](https://github.com/electify-eu) 
 
 
