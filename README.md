@@ -2,7 +2,8 @@
 
 ## Current Status
 The European elections 2024 are over, and we have transformed our app into a static page and taken the app down. Although the interactive features are no longer available, you can still explore our project and its outcomes.
-Check out our static page
+
+[Check out our static page](https://electify.eu) 
 
 ## Problem: Voters Are Overwhelmed
 The challenge facing voters is significant. Elections for the European Parliament are held only every five years, and the European Union (EU), with its intricate structures and processes, often feels distant and complex to the average citizen. This perceived remoteness can lead to the misconception that the EU plays a minor role in the daily lives of its people. However, this is far from the truth. Many decisions that directly impact the lives of EU citizens are made at the European level and then implemented as national law across member states.
